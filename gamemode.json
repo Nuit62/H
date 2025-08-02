@@ -1,0 +1,10 @@
+{
+  "ApiVersion": 2,
+  "Name": "sks",
+  "Description": "kakashk",
+  "StartClientVersion": 532,
+  "MapLists": [
+    {
+      "MapListId": 324,
+      "Name": "Официальные карты"
+    }
