@@ -1,4 +1,4 @@
-const ZONE_RADIUS = 7;
+ 
 const POINTS_PER_SECOND = 5;
 const MAX_POINTS_TO_WIN = 100;
 const KNIFE_ITEM_ID = 1;
